@@ -214,7 +214,7 @@
       style="max-width: 100%"
     />
   </a>
-  <a href="https://dart.dev" rel="nofollow">          
+  <a href="https://dart.dev" rel="nofollow">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
       alt="dart"
@@ -324,7 +324,7 @@
   </a>
   <a href="https://www.jenkins.io" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/265574c40f0816ed0fd67127cfbc382866182a7ec468c614906103c15700e707/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
       alt="jenkins"
       width="40"
       height="40"
@@ -334,7 +334,7 @@
   </a>
   <a href="https://kotlinlang.org" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
       alt="kotlin"
       width="40"
       height="40"
@@ -344,7 +344,7 @@
   </a>
   <a href="https://kubernetes.io" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/e2046333bbd304d658f954a536f663f793365a2b2d1f687a6559faa9491c7cc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b756265726e657465732f6b756265726e657465732d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
       alt="kubernetes"
       width="40"
       height="40"
@@ -354,7 +354,7 @@
   </a>
   <a href="https://laravel.com/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
       alt="laravel"
       width="40"
       height="40"
