@@ -123,7 +123,7 @@
 <p align="left" dir="auto">
   <a href="https://developer.android.com" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg"
       alt="android"
       width="40"
       height="40"
@@ -142,7 +142,7 @@
   </a>
   <a href="https://angular.io" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg"
       alt="angularjs"
       width="40"
       height="40"
@@ -151,7 +151,7 @@
   </a>
   <a href="https://aws.amazon.com" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
       width="40"
       height="40"
@@ -180,7 +180,7 @@
   </a>
   <a href="https://getbootstrap.com" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
       width="40"
       height="40"
@@ -189,7 +189,7 @@
   </a>
   <a href="https://www.cprogramming.com/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/c/c-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
       alt="c"
       width="40"
       height="40"
@@ -198,7 +198,7 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
       width="40"
       height="40"
@@ -207,7 +207,7 @@
   </a>
   <a href="https://www.w3schools.com/css/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       width="40"
       height="40"
@@ -226,7 +226,7 @@
   </a>
   <a href="https://www.docker.com/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
       alt="docker"
       width="40"
       height="40"
@@ -235,7 +235,7 @@
   </a>
   <a href="https://expressjs.com" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
       alt="express"
       width="40"
       height="40"
@@ -294,7 +294,7 @@
   </a>
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
       alt="html5"
       width="40"
       height="40"
@@ -303,7 +303,7 @@
   </a>
   <a href="https://www.java.com" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/java/java-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
       alt="java"
       width="40"
       height="40"
@@ -315,7 +315,7 @@
     rel="nofollow"
   >
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -354,7 +354,7 @@
   </a>
   <a href="https://laravel.com/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg"
       alt="laravel"
       width="40"
       height="40"
@@ -363,7 +363,7 @@
   </a>
   <a href="https://materializecss.com/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
+      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
       alt="materialize"
       width="40"
       height="40"
@@ -382,7 +382,7 @@
   </a>
   <a href="https://www.mongodb.com/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -401,7 +401,7 @@
   </a>
   <a href="https://www.mysql.com/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
       width="40"
       height="40"
@@ -410,7 +410,7 @@
   </a>
   <a href="https://nodejs.org" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -429,7 +429,7 @@
   </a>
   <a href="https://www.python.org" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
       alt="python"
       width="40"
       height="40"
@@ -438,7 +438,7 @@
   </a>
   <a href="https://reactjs.org/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
       alt="react"
       width="40"
       height="40"
@@ -447,7 +447,7 @@
   </a>
   <a href="https://redux.js.org" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/redux/redux-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
       alt="redux"
       width="40"
       height="40"
@@ -465,7 +465,7 @@
     /> </a
   ><a href="https://sass-lang.com" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/sass/sass-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
       alt="sass"
       width="40"
       height="40"
@@ -484,7 +484,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
