@@ -160,7 +160,7 @@
   </a>
   <a href="https://azure.microsoft.com/en-in/" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/6df31a460cb0c38f960e92812c8b6f8bce4c7f13170fb4782f0b31ab8e792ac2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6963726f736f66745f617a7572652f6d6963726f736f66745f617a7572652d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
       alt="azure"
       width="40"
       height="40"
@@ -170,7 +170,7 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
       alt="bash"
       width="40"
       height="40"
@@ -214,9 +214,9 @@
       style="max-width: 100%"
     />
   </a>
-  <a href="https://dart.dev" rel="nofollow">
+  <a href="https://dart.dev" rel="nofollow">          
     <img
-      src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
       alt="dart"
       width="40"
       height="40"
@@ -244,7 +244,7 @@
   </a>
   <a href="https://firebase.google.com/" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
       alt="firebase"
       width="40"
       height="40"
@@ -254,7 +254,7 @@
   </a>
   <a href="https://flask.palletsprojects.com/" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
       alt="flask"
       width="40"
       height="40"
@@ -264,7 +264,7 @@
   </a>
   <a href="https://flutter.dev" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
       alt="flutter"
       width="40"
       height="40"
@@ -274,7 +274,7 @@
   </a>
   <a href="https://git-scm.com/" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
       alt="git"
       width="40"
       height="40"
@@ -284,7 +284,7 @@
   </a>
   <a href="https://heroku.com" rel="nofollow">
     <img
-      src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg"
       alt="heroku"
       width="40"
       height="40"
